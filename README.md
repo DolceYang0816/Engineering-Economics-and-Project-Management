@@ -1,6 +1,6 @@
 ## Engineering-Economics-and-Project-Management
 
-Handwritten notes from my undergraduate Engineering Economics and Project Management course.
+Digital notes from my undergraduate Engineering Economics and Project Management course.
 
 ### Course Information
 
